@@ -26,4 +26,3 @@ def minOperations(n):
             done += clip_b
             op_cnt += 1
     return op_cnt
-
